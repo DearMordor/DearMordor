@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DearMordor
 - 👀 I’m interested in Backend, Frontend and Mobile development
-- 🌱 I’m currently learning Javascript and Go and improving my Python
+- 🌱 I’m currently learning Javascript, Go and Dart and improving my Python
 
 <!---
 DearMordor/DearMordor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
